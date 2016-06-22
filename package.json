@@ -1,0 +1,25 @@
+{
+  "name": "hubot-cutebomb",
+  "version": "1.0.0",
+  "description": "Receives a picture of: Tarsius, Fennec",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagasu/hubot-cutebomb.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "tarsius",
+    "fennec"
+  ],
+  "author": "Mateusz Kopij <sagasu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagasu/hubot-cutebomb/issues"
+  },
+  "homepage": "https://github.com/sagasu/hubot-cutebomb#readme"
+}
